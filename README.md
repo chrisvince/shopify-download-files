@@ -1,4 +1,4 @@
-# shopify-download-files
+# Download Shopify Files
 Script to download all Shopify files
 
 ## Usage
